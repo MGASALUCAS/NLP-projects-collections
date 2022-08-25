@@ -18,6 +18,9 @@ upload your outputs to a remote storage and share your results with your team.
 [![Azure Pipelines](https://img.shields.io/azure-devops/build/explosion-ai/public/20/v3.svg?logo=azure-pipelines&style=flat-square&label=build)](https://dev.azure.com/explosion-ai/public/_build?definitionId=20)
 [![spaCy](https://img.shields.io/static/v1?label=made%20with%20%E2%9D%A4%20and&message=spaCy&color=09a3d5&style=flat-square)](https://spacy.io)
 
+
+
+
 ## 🗃 Categories
 
 | Name                           | Description                                                                                                                                                                             |
@@ -27,6 +30,8 @@ upload your outputs to a remote storage and share your results with your team.
 | [`integrations`](integrations) | Templates showing integrations with third-party libraries and tools for managing your data and experiments, iterating on demos and prototypes and shipping your models into production. |
 | [`benchmarks`](benchmarks)     | Templates to reproduce our benchmarks and produce quantifiable results that are easy to compare against other systems or versions of spaCy.                                             |
 | [`experimental`](experimental) | Experimental workflows and other cutting-edge stuff to use at your own risk.                                                                                                            |
+
+
 
 ## 🚀 Quickstart
 
@@ -58,6 +63,8 @@ more about a command, add `--help`. For detailed instructions, see the
    data, adjust the settings and model and share the result with your team.
 
 ## 👷‍♀️Repository maintanance
+
+
 
 To keep the project templates and their documentation up to date, this repo
 contains several scripts:
